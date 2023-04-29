@@ -10,8 +10,9 @@ namespace MeuPrimeiroProjeto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helo World!");
-            Console.ReadKey();
+            PrimeiraClase primeiraClase = new PrimeiraClase();
+            primeiraClase.HeloWorld();
+
         }
     }
 }
