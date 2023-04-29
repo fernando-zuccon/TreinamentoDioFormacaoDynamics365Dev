@@ -1,0 +1,8 @@
+C:\Users\Fernando Zuccon\source\repos\TreinamentoDioFormacaoDynamics365Dev\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe.config
+C:\Users\Fernando Zuccon\source\repos\TreinamentoDioFormacaoDynamics365Dev\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe
+C:\Users\Fernando Zuccon\source\repos\TreinamentoDioFormacaoDynamics365Dev\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.pdb
+C:\Users\Fernando Zuccon\source\repos\TreinamentoDioFormacaoDynamics365Dev\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\Fernando Zuccon\source\repos\TreinamentoDioFormacaoDynamics365Dev\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando Zuccon\source\repos\TreinamentoDioFormacaoDynamics365Dev\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Zuccon\source\repos\TreinamentoDioFormacaoDynamics365Dev\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.exe
+C:\Users\Fernando Zuccon\source\repos\TreinamentoDioFormacaoDynamics365Dev\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.pdb
